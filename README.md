@@ -5,3 +5,4 @@ User-friendly job search and application process.
 Employer profiles and job postings.
 Interactive user interface with responsive design.
 Technologies Used: HTML, CSS, Bootstrap
+Deployed link-https://shikhasharma1111.github.io/Acciojob_Clone/
